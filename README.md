@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Rohini Kumar Y!
 
-- 👀 I’m interested in mobile app development, UI/UX design, and Software evelopement.
+- 👀 I’m interested in mobile app development, UI/UX design, and Software developement.
 - 🌱 I’m currently learning Jetpack Compose, Firebase, and Kotlin.
 - 💞️ I’m looking to collaborate on open-source projects and innovative mobile applications.
 - 📫 How to reach me: rohinikumaryadav@gmail.com.
